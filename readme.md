@@ -1,2 +1,1 @@
-- Use ``` npm install ``` to install dependencies
 - Use ``` npx wdio run wdio.conf.js ``` to run the tests
